@@ -1,9 +1,10 @@
-<h1 align="center" style="font-family: 'Arial', sans-serif; font-weight: 300; color: #29AEA2; line-height: 1.2;">
+<h1 align="center" style="font-family: Tahoma, sans-serif; font-weight: 300; color: #008080; line-height: 1.2;">
   Artem Polotovskii<br>
-  <span style="font-weight: 700; color: #29AEA2; font-size: 20px;">I'm a passionate ML engineer from Canada 🇨🇦</span>
+  <span style="font-weight: 600; font-size: 20px;">I'm a passionate ML engineer from Canada</span>
 </h1>
 
-<div align="left">
+
+<div align="center">
  
  🔭 I’m currently working on **a marketplace**
  
