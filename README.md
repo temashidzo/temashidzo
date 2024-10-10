@@ -1,26 +1,24 @@
 <h1 align="center" style="font-family: Tahoma, sans-serif; font-weight: 300; color: #008080; line-height: 1.2;">
   Artem Polotovskii<br>
-  <span style="font-weight: 600; font-size: 20px;">I'm a passionate ML engineer from Canada</span>
+  <span style="font-weight: 600; font-size: 20px;">I'm a passionate ML engineer from Canada 🇨🇦</span>
 </h1>
 
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 💼 Experienced **Business Systems and Data Analyst**  
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
-
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ 🛠️ **7+ years** in diverse development teams
+ 
+ 🤖 Currently focused on **ML/AI** and its innovative applications
 
  </div>
  
 <div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
+  <a href="mailto:artem.polotovskii@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <a href="https://www.linkedin.com/in/artem-polotovskii-357372266/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://salesp07.github.io" target="_blank">
