@@ -1,6 +1,6 @@
-<h1 align="center" style="font-family: Signika; font-weight: 300; color: #29AEA2FF;">
-  Artem Polotovskii
-  <img src="https://readme-typing-svg.herokuapp.com?font=Prompt&weight=700&size=22&pause=1000&color=29AEA2&center=true&vCenter=true&multiline=true&width=550&height=65&lines=I'm+a+passionate+ML+engineer+from+Canada+%F0%9F%87%A8%F0%9F%87%A6" />
+<h1 align="center" style="font-family: 'Arial', sans-serif; font-weight: 300; color: #29AEA2; line-height: 1.2;">
+  Artem Polotovskii<br>
+  <span style="font-weight: 700; color: #29AEA2; font-size: 20px;">I'm a passionate ML engineer from Canada 🇨🇦</span>
 </h1>
 
 <div align="left">
