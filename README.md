@@ -1,7 +1,7 @@
-<h1 align="center" style="font-family: Tahoma, sans-serif; font-weight: 300; color: #008080; line-height: 1.2;">
-  Artem Polotovskii<br>
-  <span style="font-weight: 600; font-size: 20px;">Passionate IT and data solutions engineer from Canada 🇨🇦</span>
-</h1>
+<p align="center">
+  <a href="https://github.com/Temashidzo">
+    <img src="https://github.com/user-attachments/assets/2f79853f-5c4f-46e9-a2d1-9906d5c0cef7" alt="Artem Polotovskii" /></a>
+</p>
 
 <hr/>
 
