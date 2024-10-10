@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Prompt&weight=700&size=22&pause=1000&color=F79A1D&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=65&lines=Hi+There!;I'm+a+passionate+ML+engineer+from+Canada+%F0%9F%87%A8%F0%9F%87%A6" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Prompt&weight=700&size=22&pause=1000&color=F79A1D&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=65&lines=Hi+There!;I'm+a+passionate+ML+engineer+from+Canada+%F0%9F%87%A8%F0%9F%87%A6)" />
 </h1>
 
 <h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
