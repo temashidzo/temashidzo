@@ -1,14 +1,7 @@
-<h1 align="left">
-    Artem Polotovskii
+<h1 align="center" style="font-family: Signika; font-weight: 300; color: #29AEA2FF;">
+  Artem Polotovskii
+  <img src="https://readme-typing-svg.herokuapp.com?font=Prompt&weight=700&size=22&pause=1000&color=29AEA2&center=true&vCenter=true&multiline=true&width=550&height=65&lines=I'm+a+passionate+ML+engineer+from+Canada+%F0%9F%87%A8%F0%9F%87%A6" />
 </h1>
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Prompt&weight=700&size=22&pause=1000&color=F79A1D&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=65&lines=Hi+There!;I'm+a+passionate+ML+engineer+from+Canada+%F0%9F%87%A8%F0%9F%87%A6)" />
-</h1>
-
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
-
-<br/>
 
 <div align="left">
  
