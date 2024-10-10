@@ -1,9 +1,10 @@
-<p align="center">
+<p align="center" style="margin-bottom: 0;">
   <a href="https://github.com/Temashidzo">
-    <img src="https://github.com/user-attachments/assets/2f79853f-5c4f-46e9-a2d1-9906d5c0cef7" alt="Artem Polotovskii" /></a>
+    <img src="https://github.com/user-attachments/assets/2f79853f-5c4f-46e9-a2d1-9906d5c0cef7" alt="Artem Polotovskii" />
+  </a>
 </p>
 
-<hr/>
+<hr style="margin-top: 0;"/>
 
 <div align="center">
  
