@@ -1,6 +1,6 @@
 <p align="center" style="margin-bottom: 0;">
   <a href="https://github.com/Temashidzo">
-    <img src="https://github.com/user-attachments/assets/981ad7d0-5757-4f4e-a71e-26a720be447f" alt="Artem Polotovskii" />
+    <img src="https://github.com/user-attachments/assets/596cb5b6-7751-4e57-b475-a6d4d7dd901a" />
   </a>
 </p>
 
