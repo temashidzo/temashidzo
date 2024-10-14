@@ -194,25 +194,16 @@
 <hr style="margin-top: 0;"/>
 
 <div align="center">
-  <h2>My Projects</h2>
+  <h2>📁 My Projects</h2>
   <br>
 </div>
 
- <h2 align="left">📁 My Projects</h2>
-
-<!-- Карточка для проекта road_test -->
 <p align="left">
-  <a href="https://github.com/Temashidzo/road_test">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Temashidzo&repo=road_test&theme=default" alt="road_test">
+  <a href="https://github.com/Temashidzo/Temashidzo">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Temashidzo&repo=Temashidzo&theme=transparent&bg_color=00000000&title_color=0097b2&text_color=c9d1d9&icon_color=0097b2&hide_border=false&border_color=0097b2&show_icons=true&border_radius=10" alt="Temashidzo">
   </a>
 </p>
 
-<!-- Карточка для проекта Termin -->
-<p align="left">
-  <a href="https://github.com/Temashidzo/Termin">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Temashidzo&repo=Termin&theme=default" alt="Termin">
-  </a>
-</p>
 
 
 </hr>
