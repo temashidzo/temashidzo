@@ -198,11 +198,21 @@
   <br>
 </div>
 
- <div style="background-color: #1f222e; border-radius: 10px; padding: 20px; width: 300px; color: #fff;">
-    <h3 style="color: #f85d7f;">🚗 road_test</h3>
-    <p>Dynamically manage and analyze vehicle road test data.</p>
-    <p><strong>Technologies:</strong> Python, Pandas, NumPy, Jupyter</p>
-    <p>⭐ 5k | 🍴 120</p>
-  </div>
+ <h2 align="left">📁 My Projects</h2>
+
+<!-- Карточка для проекта road_test -->
+<p align="left">
+  <a href="https://github.com/Temashidzo/road_test">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Temashidzo&repo=road_test&theme=default" alt="road_test">
+  </a>
+</p>
+
+<!-- Карточка для проекта Termin -->
+<p align="left">
+  <a href="https://github.com/Temashidzo/Termin">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Temashidzo&repo=Termin&theme=default" alt="Termin">
+  </a>
+</p>
+
 
 </hr>
