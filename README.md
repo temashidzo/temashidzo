@@ -203,18 +203,18 @@
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
   <!-- Card for temashidzo -->
-  <a href="https://github.com/Temashidzo/Temashidzo">
-    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=Temashidzo&repo=Temashidzo&theme=transparent&bg_color=00000000&title_color=0097b2&text_color=c9d1d9&icon_color=0097b2&hide_border=false&border_color=0097b2&show_icons=true&border_radius=10" alt="Temashidzo">
+  <a href="https://github.com/temashidzo/temashidzo">
+    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=temashidzo&repo=temashidzo&theme=transparent&bg_color=00000000&title_color=0097b2&text_color=c9d1d9&icon_color=0097b2&hide_border=false&border_color=0097b2&show_icons=true&border_radius=10" alt="temashidzo">
   </a>
 
   <!-- Card for termin -->
-  <a href="https://github.com/Temashidzo/termin">
-    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=Temashidzo&repo=termin&theme=transparent&bg_color=00000000&title_color=0097b2&text_color=c9d1d9&icon_color=0097b2&hide_border=false&border_color=0097b2&show_icons=true&border_radius=10" alt="termin">
+  <a href="https://github.com/temashidzo/termin">
+    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=temashidzo&repo=termin&theme=transparent&bg_color=00000000&title_color=0097b2&text_color=c9d1d9&icon_color=0097b2&hide_border=false&border_color=0097b2&show_icons=true&border_radius=10" alt="termin">
   </a>
 
   <!-- Card for road_test -->
-  <a href="https://github.com/Temashidzo/road_test">
-    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=Temashidzo&repo=road_test&theme=transparent&bg_color=00000000&title_color=0097b2&text_color=c9d1d9&icon_color=0097b2&hide_border=false&border_color=0097b2&show_icons=true&border_radius=10" alt="road_test">
+  <a href="https://github.com/temashidzo/road_test">
+    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=temashidzo&repo=road_test&theme=transparent&bg_color=00000000&title_color=0097b2&text_color=c9d1d9&icon_color=0097b2&hide_border=false&border_color=0097b2&show_icons=true&border_radius=10" alt="road_test">
   </a>
 
 </div>
