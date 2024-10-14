@@ -92,7 +92,11 @@
       <br>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
       <br>
+      <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+      <br>
       <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+      <br>
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
       <br>
       <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
       <br>
@@ -103,8 +107,6 @@
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
       <br>
       <img src="https://img.shields.io/badge/YOLO-808080?style=for-the-badge&logo=yolo&logoColor=white" alt="YOLO"/>
-      <br>
-      <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
@@ -198,18 +200,18 @@
   <br>
 </div>
 
-<div align="center">
-  
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
   <!-- Card for temashidzo -->
   <a href="https://github.com/Temashidzo/Temashidzo">
     <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=Temashidzo&repo=Temashidzo&theme=transparent&bg_color=00000000&title_color=0097b2&text_color=c9d1d9&icon_color=0097b2&hide_border=false&border_color=0097b2&show_icons=true&border_radius=10" alt="Temashidzo">
   </a>
-  
+
   <!-- Card for termin -->
   <a href="https://github.com/Temashidzo/termin">
     <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=Temashidzo&repo=termin&theme=transparent&bg_color=00000000&title_color=0097b2&text_color=c9d1d9&icon_color=0097b2&hide_border=false&border_color=0097b2&show_icons=true&border_radius=10" alt="termin">
   </a>
-  
+
   <!-- Card for road_test -->
   <a href="https://github.com/Temashidzo/road_test">
     <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=Temashidzo&repo=road_test&theme=transparent&bg_color=00000000&title_color=0097b2&text_color=c9d1d9&icon_color=0097b2&hide_border=false&border_color=0097b2&show_icons=true&border_radius=10" alt="road_test">
