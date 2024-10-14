@@ -37,7 +37,7 @@
 
 <table align="center">
   <tr>
-    <th align="center">Cloud Platforms</th>
+    <th align="center">Environments</th>
     <th align="center">Databases</th>
     <th align="center">Languages</th>
     <th align="center">Libraries</th>
@@ -47,11 +47,17 @@
     <td align="center">
       <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft&logoColor=white" alt="Azure"/>
       <br>
-      <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="AWS"/>
+      <img src="https://img.shields.io/badge/Amazon%20AWS-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="AWS"/>
       <br>
       <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
       <br>
       <img src="https://img.shields.io/badge/Digital%20Ocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="Digital Ocean"/>
+      <br>
+      <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+      <br>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+      <br>
+      <img src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="MacOS"/>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
@@ -67,6 +73,8 @@
       <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black" alt="ClickHouse"/>
       <br>
       <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+      <br>
+      <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j"/> 
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -122,14 +130,14 @@
 
 <table align="center">
   <tr>
-    <th align="center">Project Management Tools</th>
-    <th align="center">ETL/ELT Tools</th>
-    <th align="center">Markup Languages & Tools</th>
-    <th align="center">Miscellaneous</th>
+    <th align="center">Project Management</th>
+    <th align="center">ETL/ELT</th>
+    <th align="center">Data Formats & Protocols</th>
+    <th align="center">Others</th>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Wrike-0077CC?style=for-the-badge&logo=wrike&logoColor=white" alt="Wrike"/>
+      <img src="https://img.shields.io/badge/Wrike-00C300?style=for-the-badge&logo=wrike&logoColor=white" alt="Wrike"/>
       <br>
       <img src="https://img.shields.io/badge/Monday.com-FF5A1F?style=for-the-badge&logo=monday&logoColor=white" alt="Monday.com"/>
       <br>
@@ -154,22 +162,23 @@
       <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/XML-000000?style=for-the-badge&logo=xml&logoColor=white" alt="XML"/>
+      <img src="https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML"/>
       <br>
       <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
       <br>
-      <img src="https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML"/>
+      <img src="https://img.shields.io/badge/XML-000000?style=for-the-badge&logo=xml&logoColor=white" alt="XML"/>
       <br>
-      <img src="https://img.shields.io/badge/SWIFT-005587?style=for-the-badge&logo=swift&logoColor=white" alt="SWIFT"/>      
+      <img src="https://img.shields.io/badge/SWIFT-005587?style=for-the-badge&logo=globe&logoColor=white" alt="SWIFT"/>
+      <br>
+      <img src="https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=swagger&logoColor=white" alt="REST API"/>
+      <br>
+      <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
+      <br>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/CURL-073551?style=for-the-badge&logo=curl&logoColor=white" alt="CURL"/>
       <br>
       <img src="https://img.shields.io/badge/Draw.io-0066FF?style=for-the-badge&logo=diagrams.net&logoColor=white" alt="Draw.io"/>
-      <br>
-      <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
-      <br>
-      <img src="https://img.shields.io/badge/Yolo-808080?style=for-the-badge&logo=yolo&logoColor=white" alt="Yolo"/>
       <br>
       <img src="https://img.shields.io/badge/Microsoft%20365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="M365"/>
       <br>
