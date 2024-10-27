@@ -215,6 +215,11 @@
     <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=temashidzo&repo=road_test&theme=transparent&bg_color=00000000&title_color=0097b2&text_color=c9d1d9&icon_color=0097b2&hide_border=false&border_color=0097b2&show_icons=true&border_radius=10" alt="road_test">
   </a>
 
+  <!-- Card for soccer -->
+  <a href="https://github.com/temashidzo/soccer">
+    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=temashidzo&repo=soccer&theme=transparent&bg_color=00000000&title_color=0097b2&text_color=c9d1d9&icon_color=0097b2&hide_border=false&border_color=0097b2&show_icons=true&border_radius=10" alt="soccer">
+  </a>
+
 </div>
 
 
