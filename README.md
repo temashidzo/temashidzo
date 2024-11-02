@@ -203,7 +203,9 @@
     <img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=temashidzo&repo=road_test_booking&bg_color=00000000&title_color=0097b2&text_color=0097b2&icon_color=0097b2&hide_border=false&border_color=007c91&border_radius=10&show_icons=true" alt="road_test_booking">
   </a>
 
-
+  <a href="https://github.com/temashidzo/soccer_analyzer">
+    <img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=temashidzo&repo=soccer_analyzer&bg_color=00000000&title_color=0097b2&text_color=0097b2&icon_color=0097b2&hide_border=false&border_color=007c91&border_radius=10&show_icons=true" alt="soccer_analyzer">
+  </a>
 
 
 </hr>
