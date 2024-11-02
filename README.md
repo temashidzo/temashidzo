@@ -202,7 +202,7 @@
 
   <!-- Card for temashidzo -->
   <a href="https://github.com/temashidzo/temashidzo">
-    <img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=temashidzo&repo=temashidzo&theme=transparent&bg_color=ffffff&title_color=005f99&text_color=333333&icon_color=005f99&hide_border=false&border_color=005f99&border_width=2&show_icons=true&border_radius=12&font_size=14" alt="temashidzo">
+    <img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=temashidzo&repo=temashidzo&theme=transparent&bg_color=ffffff&title_color=005f99&text_color=333333&icon_color=005f99&hide_border=false&border_color=005f99&border_width=10&show_icons=true&border_radius=12&font_size=20" alt="temashidzo">
   </a>
 
   <!-- Card for termin -->
