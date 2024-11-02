@@ -200,7 +200,7 @@
 
 
 
-<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; max-width: 1020px; margin: auto;">
+
 
   <a href="https://github.com/temashidzo/temashidzo">
     <img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=temashidzo&repo=temashidzo&bg_color=45,ff6a00,9b5de5&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_radius=8&show_icons=true" alt="temashidzo">
@@ -217,8 +217,6 @@
   <a href="https://github.com/temashidzo/soccer_analyzer">
     <img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=temashidzo&repo=soccer_analyzer&bg_color=45,ff6a00,9b5de5&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_radius=8&show_icons=true" alt="soccer_analyzer">
   </a>
-
-</div>
 
 
 
