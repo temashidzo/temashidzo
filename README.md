@@ -207,5 +207,9 @@
     <img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=temashidzo&repo=soccer_match_analyzer&bg_color=00000000&title_color=0097b2&text_color=0097b2&icon_color=0097b2&hide_border=false&border_color=007c91&border_radius=10&show_icons=true" alt="soccer_match_analyzer">
   </a>
 
+  <a href="https://github.com/temashidzo/obesity_estimation">
+    <img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=temashidzo&repo=obesity_estimation&bg_color=00000000&title_color=0097b2&text_color=0097b2&icon_color=0097b2&hide_border=false&border_color=007c91&border_radius=10&show_icons=true" alt="obesity_estimation">
+  </a>
+
 
 </hr>
