@@ -202,25 +202,26 @@
 
   <!-- Card for temashidzo -->
   <a href="https://github.com/temashidzo/temashidzo">
-    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=temashidzo&repo=temashidzo&theme=transparent&bg_color=00000000&title_color=0097b2&text_color=c9d1d9&icon_color=0097b2&hide_border=false&border_color=0097b2&show_icons=true&border_radius=10" alt="temashidzo">
+    <img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=temashidzo&repo=temashidzo&theme=transparent&bg_color=ffffff&title_color=005f99&text_color=333333&icon_color=005f99&hide_border=false&border_color=005f99&border_width=2&show_icons=true&border_radius=12&font_size=14" alt="temashidzo">
   </a>
 
   <!-- Card for termin -->
   <a href="https://github.com/temashidzo/termin">
-    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=temashidzo&repo=termin&theme=transparent&bg_color=00000000&title_color=0097b2&text_color=c9d1d9&icon_color=0097b2&hide_border=false&border_color=0097b2&show_icons=true&border_radius=10" alt="termin">
+    <img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=temashidzo&repo=termin&theme=transparent&bg_color=ffffff&title_color=005f99&text_color=333333&icon_color=005f99&hide_border=false&border_color=005f99&border_width=2&show_icons=true&border_radius=12&font_size=14" alt="termin">
   </a>
 
   <!-- Card for road_test -->
   <a href="https://github.com/temashidzo/road_test">
-    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=temashidzo&repo=road_test&theme=transparent&bg_color=00000000&title_color=0097b2&text_color=c9d1d9&icon_color=0097b2&hide_border=false&border_color=0097b2&show_icons=true&border_radius=10" alt="road_test">
+    <img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=temashidzo&repo=road_test&theme=transparent&bg_color=ffffff&title_color=005f99&text_color=333333&icon_color=005f99&hide_border=false&border_color=005f99&border_width=2&show_icons=true&border_radius=12&font_size=14" alt="road_test">
   </a>
 
   <!-- Card for soccer -->
   <a href="https://github.com/temashidzo/soccer">
-    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=temashidzo&repo=soccer&theme=transparent&bg_color=00000000&title_color=0097b2&text_color=c9d1d9&icon_color=0097b2&hide_border=false&border_color=0097b2&show_icons=true&border_radius=10" alt="soccer">
+    <img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=temashidzo&repo=soccer&theme=transparent&bg_color=ffffff&title_color=005f99&text_color=333333&icon_color=005f99&hide_border=false&border_color=005f99&border_width=2&show_icons=true&border_radius=12&font_size=14" alt="soccer">
   </a>
 
 </div>
+
 
 
 
