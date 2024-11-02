@@ -200,17 +200,26 @@
 
 
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; max-width: 1020px; margin: auto;">
+<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; max-width: 1020px; margin: auto;">
 
-  [![temashidzo](https://github-readme-stats.vercel.app/api/pin/?username=temashidzo&repo=temashidzo&bg_color=00000000&title_color=0097b2&text_color=a4aacb&icon_color=007ec6&hide_border=false&border_color=0097b2&border_width=2)](https://github.com/temashidzo/temashidzo)
+  <a href="https://github.com/temashidzo/temashidzo">
+    <img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=temashidzo&repo=temashidzo&bg_color=45,00f2fe,9b5de5&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_radius=8&show_icons=true" alt="temashidzo">
+  </a>
 
-  [![termin](https://github-readme-stats.vercel.app/api/pin/?username=temashidzo&repo=termin&bg_color=00000000&title_color=0097b2&text_color=a4aacb&icon_color=007ec6&hide_border=false&border_color=0097b2&border_width=2)](https://github.com/temashidzo/termin)
+  <a href="https://github.com/temashidzo/termin">
+    <img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=temashidzo&repo=termin&bg_color=45,00f2fe,9b5de5&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_radius=8&show_icons=true" alt="termin">
+  </a>
 
-  [![road_test](https://github-readme-stats.vercel.app/api/pin/?username=temashidzo&repo=road_test&bg_color=00000000&title_color=0097b2&text_color=a4aacb&icon_color=007ec6&hide_border=false&border_color=0097b2&border_width=2)](https://github.com/temashidzo/road_test)
+  <a href="https://github.com/temashidzo/road_test">
+    <img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=temashidzo&repo=road_test&bg_color=45,00f2fe,9b5de5&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_radius=8&show_icons=true" alt="road_test">
+  </a>
 
-  [![soccer](https://github-readme-stats.vercel.app/api/pin/?username=temashidzo&repo=soccer&bg_color=00000000&title_color=0097b2&text_color=a4aacb&icon_color=007ec6&hide_border=false&border_color=0097b2&border_width=2)](https://github.com/temashidzo/soccer)
+  <a href="https://github.com/temashidzo/soccer_analyzer">
+    <img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=temashidzo&repo=soccer_analyzer&bg_color=45,00f2fe,9b5de5&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_radius=8&show_icons=true" alt="soccer_analyzer">
+  </a>
 
 </div>
+
 
 
 
