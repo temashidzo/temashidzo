@@ -203,19 +203,19 @@
 
 
   <a href="https://github.com/temashidzo/temashidzo">
-    <img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=temashidzo&repo=temashidzo&bg_color=45,ff6a00,9b5de5&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_radius=8&show_icons=true" alt="temashidzo">
+    <img width="340" src="https://github-readme-stats.vercel.app/api/pin/?username=temashidzo&repo=temashidzo&bg_color=45,ff6a00,9b5de5&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_radius=8&show_icons=true" alt="temashidzo">
   </a>
 
   <a href="https://github.com/temashidzo/termin">
-    <img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=temashidzo&repo=termin&bg_color=45,ff6a00,9b5de5&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_radius=8&show_icons=true" alt="termin">
+    <img width="340" src="https://github-readme-stats.vercel.app/api/pin/?username=temashidzo&repo=termin&bg_color=45,ff6a00,9b5de5&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_radius=8&show_icons=true" alt="termin">
   </a>
 
   <a href="https://github.com/temashidzo/road_test">
-    <img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=temashidzo&repo=road_test&bg_color=45,ff6a00,9b5de5&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_radius=8&show_icons=true" alt="road_test">
+    <img width="340" src="https://github-readme-stats.vercel.app/api/pin/?username=temashidzo&repo=road_test&bg_color=45,ff6a00,9b5de5&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_radius=8&show_icons=true" alt="road_test">
   </a>
 
   <a href="https://github.com/temashidzo/soccer_analyzer">
-    <img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=temashidzo&repo=soccer_analyzer&bg_color=45,ff6a00,9b5de5&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_radius=8&show_icons=true" alt="soccer_analyzer">
+    <img width="340" src="https://github-readme-stats.vercel.app/api/pin/?username=temashidzo&repo=soccer_analyzer&bg_color=45,ff6a00,9b5de5&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_radius=8&show_icons=true" alt="soccer_analyzer">
   </a>
 
 
